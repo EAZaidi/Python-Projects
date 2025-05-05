@@ -1,2 +1,2 @@
 streamlit
-cryptography
+cryptography==41.0.3
